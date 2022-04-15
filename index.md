@@ -109,4 +109,4 @@ Any issues you raise now may not make it into the printed version, but we will k
 
 ## Projects / Codelabs / Tutorials
 
-- Are available [here](http://TODO.com) 
+- Are available [here](https://github.com/EfficientDL/book/tree/main/codelabs). 
