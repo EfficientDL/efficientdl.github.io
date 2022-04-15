@@ -18,6 +18,7 @@ Twitter: [@GauravML](https://twitter.com/GauravML), [@_NareshPS](https://twitter
 
 **Part II: Effciency Techniques**
 
+{:start="2"}
 2. **Introduction to Compression Techniques**
    - Motivation
    - Quantization
@@ -63,6 +64,8 @@ Twitter: [@GauravML](https://twitter.com/GauravML), [@_NareshPS](https://twitter
   - Federated Learning
 
 **Part 3 - Applied Deep Dives**
+
+{:start="8"}
 8. **Deep-Dives: Deployment to Platforms 
    - Mobile
      - Project: Deploying and benchmarking a tiny model with TFLite.
@@ -84,6 +87,8 @@ Twitter: [@GauravML](https://twitter.com/GauravML), [@_NareshPS](https://twitter
       - Project: Efficient speech detection models.
 
 **Part 4 - Software Infrastructure**
+
+{:start="10"}
 10.   **Software Infrastructure**
    - Tensorflow Ecosystem
    - PyTorch Ecosystem
