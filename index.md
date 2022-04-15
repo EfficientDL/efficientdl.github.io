@@ -1,4 +1,3 @@
-## Efficient Deep Learning
 
 Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
 
@@ -6,7 +5,7 @@ Twitter: [@GauravML](https://twitter.com/GauravML), [@_NareshPS](https://twitter
 
 
 <img src="static/images/book-cover.png" alt="Efficient Deep Learning book cover" 
-  style="float:right;width:180px;">
+  style="float:right;width:125px;">
 
 ##  Table of Contents
 
