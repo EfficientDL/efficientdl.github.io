@@ -66,9 +66,9 @@ This book will go through algorithms and techniques used by researchers and engi
 
 6. **Advanced Compression Techniques**
    - Pruning
-  - Clustering / Matrix Factorization
-  - Weight Sharing
-  - Project: Comparing Compression Techniques for optimizing a speech detection model.
+   - Clustering / Matrix Factorization
+   - Weight Sharing
+   - Project: Comparing Compression Techniques for optimizing a speech detection model.
 
 
 7. **Advanced Learning Techniques**
