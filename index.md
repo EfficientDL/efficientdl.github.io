@@ -35,7 +35,7 @@ This book will go through algorithms and techniques used by researchers and engi
 
 **Part I: Introduction to Efficient Deep Learning**  
 
-1. **Introduction [pdf](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf)**
+1. **Introduction [(pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf)**
    - Introduction to Deep Learning
    - Efficient Deep Learning
    - Mental Model of Efficient Deep Learning
@@ -44,7 +44,7 @@ This book will go through algorithms and techniques used by researchers and engi
 **Part II: Effciency Techniques**
 
 {:start="2"}
-1. **Introduction to Compression Techniques [pdf](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%202%20-%20Compression%20Techniques.pdf)**
+1. **Introduction to Compression Techniques [(pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%202%20-%20Compression%20Techniques.pdf)**
    - An Overview of Compression
    - Quantization
    - Exercises: Compressing images from the Mars Rover
@@ -52,7 +52,7 @@ This book will go through algorithms and techniques used by researchers and engi
    - Summary
 
 
-2. **Introduction to Learning Techniques [pdf](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%203%20-%20Learning%20Techniques.pdf)**
+2. **Introduction to Learning Techniques [(pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%203%20-%20Learning%20Techniques.pdf)**
     - Learning Techniques and Efficiency
     - Data Augmentation
       - Project: Increasing the accuracy of an image classification model with Data Augmentation.
@@ -61,7 +61,7 @@ This book will go through algorithms and techniques used by researchers and engi
       - Project: Increasing the accuracy of an speech identification model with Distillation.
     - Summary
 
-3. **Efficient Architectures [pdf](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)**
+3. **Efficient Architectures [(pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)**
     - Motivation
     - Embeddings for Smaller and Faster Models
       - Project: Using pre-trained embeddings to improve accuracy of a NLP task.
