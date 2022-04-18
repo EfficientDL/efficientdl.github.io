@@ -24,38 +24,43 @@ This book will go through algorithms and techniques used by researchers and engi
 
 **Part I: Introduction to Efficient Deep Learning**  
 
-1. **Introduction**
-   - Introduction
+1. **Introduction [pdf](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf)**
+   - Introduction to Deep Learning
    - Efficient Deep Learning
    - Mental Model of Efficient Deep Learning
+   - Summary
 
 **Part II: Effciency Techniques**
 
 {:start="2"}
-2. **Introduction to Compression Techniques**
-   - Motivation
+1. **Introduction to Compression Techniques [pdf](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%202%20-%20Compression%20Techniques.pdf)**
+   - An Overview of Compression
    - Quantization
-   - Exercises: Compressing images from the Mars Rover.
-   - Project: Optimizing an MNIST model with Quantization
+   - Exercises: Compressing images from the Mars Rover
+   - Project: Quantizing a Deep Learning Model
+   - Summary
 
 
-3. **Introduction to Learning Techniques**
-    - Motivation
-    - Distillation
-      - Project: Increasing the accuracy of an image classification model with Distillation.
+2. **Introduction to Learning Techniques [pdf](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%203%20-%20Learning%20Techniques.pdf)**
+    - Learning Techniques and Efficiency
     - Data Augmentation
       - Project: Increasing the accuracy of an image classification model with Data Augmentation.
+      - Project: Increasing the accuracy of a text classification model with Data Augmentation.
+    - Distillation
+      - Project: Increasing the accuracy of an speech identification model with Distillation.
+    - Summary
 
-4. **Efficient Architectures**
+3. **Efficient Architectures [pdf](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)**
     - Motivation
-    - Depthwise-Separable Layers
-      - Project: Reducing model size and latency on Mobile for ConvNets.
-    - Projections
-      - Project: Small Text Classification models with Projections.
-    - Hashing Trick
-      - Project: Microsecond Scale Text Classification with the Hashing Trick.
+    - Embeddings for Smaller and Faster Models
+      - Project: Using pre-trained embeddings to improve accuracy of a NLP task.
+    - Learn Long-Term Dependencies Using Attention
+      - Project: News Classification Using RNN and Attention Models
+    - Efficient On-Device Convolutions
+      - Project: Project: Snapchat-Like Filters for Pets
+    - Summary
 
-5. **Automation**
+4. **Automation**
    - Motivation
    - Hyper-Parameter Tuning
      - Project: Multi-objective tuning to get a smaller and more accurate model.
@@ -64,14 +69,14 @@ This book will go through algorithms and techniques used by researchers and engi
    - Compression Search
      - Project: Layer-wise Sparsity to achieve a pareto optimal model. 
 
-6. **Advanced Compression Techniques**
+5. **Advanced Compression Techniques**
    - Pruning
    - Clustering / Matrix Factorization
    - Weight Sharing
    - Project: Comparing Compression Techniques for optimizing a speech detection model.
 
 
-7. **Advanced Learning Techniques**
+6. **Advanced Learning Techniques**
   - Contrastive Learning
   - Project: Learning to classify with 10% labels.
   - Federated Learning
@@ -79,7 +84,7 @@ This book will go through algorithms and techniques used by researchers and engi
 **Part 3 - Applied Deep Dives**
 
 {:start="8"}
-8. **Deep-Dives: Deployment to Platforms** 
+8. **Deep-Dives: Deployment to Tensorflow Platforms** 
    - Mobile
      - Project: Deploying and benchmarking a tiny model with TFLite.
      - Microcontrollers
