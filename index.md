@@ -102,7 +102,7 @@ We welcome any errata / feedback / ideas. Please file them as an issue [here](ht
 8. **Deep-Dives: Deployment to Tensorflow Platforms** 
    - Mobile
      - Project: Deploying and benchmarking a tiny model with TFLite.
-     - Microcontrollers
+   - Microcontrollers
      - Project: Speech detection on a Microcontroller with TFMicro.
    - Web
      - Project: Face recognition on the Web with TensorFlow.JS.
