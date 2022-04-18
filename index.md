@@ -1,3 +1,14 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GLN4VNTGHS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GLN4VNTGHS');
+</script>
+</head>
 
 Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
 
