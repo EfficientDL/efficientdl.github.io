@@ -39,7 +39,7 @@ We welcome any errata / feedback / ideas. Please file them as an issue [here](ht
 
 **Part I: Introduction to Efficient Deep Learning**  
 
-1. [**Introduction (pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf)**
+1. **[Introduction (pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf)**
    - Introduction to Deep Learning
    - Efficient Deep Learning
    - Mental Model of Efficient Deep Learning
