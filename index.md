@@ -1,15 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GLN4VNTGHS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-GLN4VNTGHS');
-</script>
-</head>
-
 Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
 
 Twitter: [@GauravML](https://twitter.com/GauravML), [@_NareshPS](https://twitter.com/_NareshPS).
@@ -37,9 +25,11 @@ We welcome any errata / feedback / ideas. Please file them as an issue [here](ht
 
 ##  Table of Contents
 
+The table of contents is as follows. We have also included PDFs of some of the chapter drafts for your review. Please be warned that the content is in an initial stage, and might contain errors. Any feedback is appreciated though.
+
 **Part I: Introduction to Efficient Deep Learning**  
 
-1. **[Introduction (pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf)**
+1. **[Introduction (draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf)**
    - Introduction to Deep Learning
    - Efficient Deep Learning
    - Mental Model of Efficient Deep Learning
@@ -48,7 +38,7 @@ We welcome any errata / feedback / ideas. Please file them as an issue [here](ht
 **Part II: Effciency Techniques**
 
 {:start="2"}
-1. **[Introduction to Compression Techniques (pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%202%20-%20Compression%20Techniques.pdf)**
+1. **[Introduction to Compression Techniques (draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%202%20-%20Compression%20Techniques.pdf)**
    - An Overview of Compression
    - Quantization
    - Exercises: Compressing images from the Mars Rover
@@ -56,7 +46,7 @@ We welcome any errata / feedback / ideas. Please file them as an issue [here](ht
    - Summary
 
 
-2. **[Introduction to Learning Techniques (pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%203%20-%20Learning%20Techniques.pdf)**
+2. **[Introduction to Learning Techniques (draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%203%20-%20Learning%20Techniques.pdf)**
     - Learning Techniques and Efficiency
     - Data Augmentation
       - Project: Increasing the accuracy of an image classification model with Data Augmentation.
@@ -65,7 +55,7 @@ We welcome any errata / feedback / ideas. Please file them as an issue [here](ht
       - Project: Increasing the accuracy of an speech identification model with Distillation.
     - Summary
 
-3. **[Efficient Architectures (pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)**
+3. **[Efficient Architectures (draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)**
     - Motivation
     - Embeddings for Smaller and Faster Models
       - Project: Using pre-trained embeddings to improve accuracy of a NLP task.
@@ -99,18 +89,18 @@ We welcome any errata / feedback / ideas. Please file them as an issue [here](ht
 **Part 3 - Applied Deep Dives**
 
 {:start="8"}
-8. **Deep-Dives: Deployment to Tensorflow Platforms** 
+1. **Deep-Dives: Tensorflow Platforms** 
    - Mobile
-     - Project: Deploying and benchmarking a tiny model with TFLite.
+     - Project: Benchmarking a tiny on-device model with TFLite.
    - Microcontrollers
-     - Project: Speech detection on a Microcontroller with TFMicro.
+     - Project: Speech detection on a microcontroller with TFMicro.
    - Web
-     - Project: Face recognition on the Web with TensorFlow.JS.
+     - Project: Face recognition on the web with TensorFlow.JS.
    - Google Tensor Processing Unit (TPU)
-     - Project: Training BERT with TPUs.
+     - Project: Training BERT efficiently with TPUs.
    - Summary
 
-9. **Deep-Dives: Efficient Models**
+2. **Deep-Dives: Efficient Models**
     - BERT
       - Project: Training efficient BERT models.
     - MobileNet
