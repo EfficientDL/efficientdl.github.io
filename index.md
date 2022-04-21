@@ -1,8 +1,6 @@
 Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
 
-Twitter: [@GauravML](https://twitter.com/GauravML), [@_NareshPS](https://twitter.com/_NareshPS).
-
-
+## Introduction
 <img src="static/images/book-cover.png" alt="Efficient Deep Learning book cover" 
   style="float:right;width:250px;margin-left:20px;margin-bottom:20px;">
 
@@ -18,9 +16,12 @@ What if you could make your models more efficient: use less resources (model siz
 This book will go through algorithms and techniques used by researchers and engineers at Google Research, Facebook AI Research (FAIR), and other eminent AI labs to train and deploy their models on devices ranging from large server-side machines to tiny microcontrollers. In this book we present a balance of fundamentals as well as practical know-how to fully equip you to go ahead and optimize your model training and deployment workflows such that your models perform as well or better than earlier, with a fraction of resources. We also will present deep dives into popular models, infrastructure, and hardware, along with challenging projects to test your skills.
 </p>
 
+### The Minimally Qualified Reader
+The minimally qualified reader is someone who has a basic understanding of ML and at least some experience of training deep learning models. They can do basic fine-tuning of models by changing common parameters, can make minor changes to model architectures, etc. and get the modified models to train to a good accuracy. However, they are running into problems with productionizing these models / want to optimize them further. This is primarily because the book does not teach deep learning basics, for which we would like to refer you to excellent resources like [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), [Dive into Deep Learning](d2l.ai), etc.
+
 ### [Report errata and feedback](https://github.com/EfficientDL/book/issues).
 
-We welcome any errata / feedback / ideas. Please file them as an issue [here](https://github.com/EfficientDL/book/issues).
+We welcome any errata / feedback / ideas. Please file them as an issue [here](https://github.com/EfficientDL/book/issues). Alternatively, write to us at [efficientdlbook@gmail.com](mailto:efficientdlbook@gmail.com)
 
 
 ##  Table of Contents
@@ -121,3 +122,9 @@ The table of contents is as follows. We have also included PDFs of some of the c
 ## Projects / Codelabs / Tutorials
 
 - Are available [here](https://github.com/EfficientDL/book/tree/main/codelabs). 
+
+## Authors
+* Gaurav Menghani ([LinkedIn](), [Twitter](https://twitter.com/GauravML), [Website](https://gaurav.ai))
+* Naresh Singh ([LinkedIn](), [Twitter](https://twitter.com/_NareshPS))
+
+If you are interested in collaborating with us in any aspect of developing this book, please feel free to reach out to us at: [efficientdlbook@gmail.com](mailto:efficientdlbook@gmail.com).
