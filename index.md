@@ -1,11 +1,17 @@
 Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
 
+- [Authors](#authors)
 - [Introduction](#introduction)
   - [The Minimally Qualified Reader](#the-minimally-qualified-reader)
   - [Report errata and feedback.](#report-errata-and-feedback)
 - [Table of Contents](#table-of-contents)
 - [Projects / Codelabs / Tutorials](#projects--codelabs--tutorials)
-- [Authors](#authors)
+
+## Authors
+* Gaurav Menghani ([GitHub](https://github.com/reddragon), [LinkedIn](https://www.linkedin.com/in/gauravmenghani/), [Twitter](https://twitter.com/GauravML), [Website](https://gaurav.ai))
+* Naresh Singh ([GitHub](https://github.com/NareshPS), [LinkedIn](https://www.linkedin.com/in/naresh-singh-15916b17/), [Twitter](https://twitter.com/_NareshPS))
+
+If you are interested in collaborating with us in any aspect of developing this book, please feel free to reach out to us at: [hello@efficientdlbook.com](mailto:hello@efficientdlbook.com).
 
 ## Introduction
 <img src="static/images/book-cover.png" alt="Efficient Deep Learning book cover" 
@@ -131,9 +137,3 @@ The table of contents is as follows. We have also included PDFs of some of the c
 ## Projects / Codelabs / Tutorials
 
 - Are available [here](https://github.com/EfficientDL/book/tree/main/codelabs). 
-
-## Authors
-* Gaurav Menghani ([LinkedIn](https://www.linkedin.com/in/gauravmenghani/), [Twitter](https://twitter.com/GauravML), [Website](https://gaurav.ai))
-* Naresh Singh ([LinkedIn](https://www.linkedin.com/in/naresh-singh-15916b17/), [Twitter](https://twitter.com/_NareshPS))
-
-If you are interested in collaborating with us in any aspect of developing this book, please feel free to reach out to us at: [hello@efficientdlbook.com](mailto:hello@efficientdlbook.com).
