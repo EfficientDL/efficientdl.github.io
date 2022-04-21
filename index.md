@@ -1,5 +1,15 @@
 Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+  - [The Minimally Qualified Reader](#the-minimally-qualified-reader)
+  - [Report errata and feedback.](#report-errata-and-feedback)
+- [Table of Contents](#table-of-contents-1)
+- [Projects / Codelabs / Tutorials](#projects--codelabs--tutorials)
+- [Authors](#authors)
+
 ## Introduction
 <img src="static/images/book-cover.png" alt="Efficient Deep Learning book cover" 
   style="float:right;width:250px;margin-left:20px;margin-bottom:20px;">
@@ -17,7 +27,9 @@ This book will go through algorithms and techniques used by researchers and engi
 </p>
 
 ### The Minimally Qualified Reader
+<p align="justify">
 The minimally qualified reader is someone who has a basic understanding of ML and at least some experience of training deep learning models. They can do basic fine-tuning of models by changing common parameters, can make minor changes to model architectures, etc. and get the modified models to train to a good accuracy. However, they are running into problems with productionizing these models / want to optimize them further. This is primarily because the book does not teach deep learning basics, for which we would like to refer you to excellent resources like [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), [Dive into Deep Learning](d2l.ai), etc.
+</p>
 
 ### [Report errata and feedback](https://github.com/EfficientDL/book/issues).
 
