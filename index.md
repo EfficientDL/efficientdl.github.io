@@ -1,12 +1,9 @@
 Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
   - [The Minimally Qualified Reader](#the-minimally-qualified-reader)
   - [Report errata and feedback.](#report-errata-and-feedback)
-- [Table of Contents](#table-of-contents-1)
+- [Table of Contents](#table-of-contents)
 - [Projects / Codelabs / Tutorials](#projects--codelabs--tutorials)
 - [Authors](#authors)
 
