@@ -33,7 +33,7 @@ The minimally qualified reader is someone who has a basic understanding of ML an
 
 ### [Report errata and feedback](https://github.com/EfficientDL/book/issues).
 
-We welcome any errata / feedback / ideas. Please file them as an issue [here](https://github.com/EfficientDL/book/issues). Alternatively, write to us at [efficientdlbook@gmail.com](mailto:efficientdlbook@gmail.com)
+We welcome any errata / feedback / ideas. Please file them as an issue [here](https://github.com/EfficientDL/book/issues). Alternatively, write to us at [book@efficientdlbook.com](mailto:book@efficientdlbook.com).
 
 
 ##  Table of Contents
@@ -139,4 +139,4 @@ The table of contents is as follows. We have also included PDFs of some of the c
 * Gaurav Menghani ([LinkedIn](), [Twitter](https://twitter.com/GauravML), [Website](https://gaurav.ai))
 * Naresh Singh ([LinkedIn](), [Twitter](https://twitter.com/_NareshPS))
 
-If you are interested in collaborating with us in any aspect of developing this book, please feel free to reach out to us at: [efficientdlbook@gmail.com](mailto:efficientdlbook@gmail.com).
+If you are interested in collaborating with us in any aspect of developing this book, please feel free to reach out to us at: [book@efficientdlbook.com](mailto:book@efficientdlbook.com).
