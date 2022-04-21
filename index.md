@@ -136,7 +136,7 @@ The table of contents is as follows. We have also included PDFs of some of the c
 - Are available [here](https://github.com/EfficientDL/book/tree/main/codelabs). 
 
 ## Authors
-* Gaurav Menghani ([LinkedIn](), [Twitter](https://twitter.com/GauravML), [Website](https://gaurav.ai))
-* Naresh Singh ([LinkedIn](), [Twitter](https://twitter.com/_NareshPS))
+* Gaurav Menghani ([LinkedIn](https://www.linkedin.com/in/gauravmenghani/), [Twitter](https://twitter.com/GauravML), [Website](https://gaurav.ai))
+* Naresh Singh ([LinkedIn](https://www.linkedin.com/in/naresh-singh-15916b17/), [Twitter](https://twitter.com/_NareshPS))
 
 If you are interested in collaborating with us in any aspect of developing this book, please feel free to reach out to us at: [book@efficientdlbook.com](mailto:book@efficientdlbook.com).
