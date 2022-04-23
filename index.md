@@ -14,7 +14,7 @@ Please link to this site using [https://efficientdlbook.com](https://efficientdl
 If you are interested in collaborating with us in any aspect of developing this book, please feel free to reach out to us at: [hello@efficientdlbook.com](mailto:hello@efficientdlbook.com).
 
 ## Introduction
-<img src="static/images/book-cover.png" alt="Efficient Deep Learning book cover" 
+<img src="https://raw.githubusercontent.com/EfficientDL/book/main/images/book-cover.png" alt="Efficient Deep Learning book cover" 
   style="float:right;width:250px;margin-left:20px;margin-bottom:20px;">
 
 <p align="justify">
