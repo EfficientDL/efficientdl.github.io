@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/EfficientDL/book/main/images/book-cover.png" alt="Efficient Deep Learning book cover" 
+  style="float:right;width:240px;margin-left:20px;margin-bottom:20px;">
+
+
 Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
 
 - [Authors](#authors)
@@ -14,8 +18,6 @@ Please link to this site using [https://efficientdlbook.com](https://efficientdl
 If you are interested in collaborating with us in any aspect of developing this book, please feel free to reach out to us at: [hello@efficientdlbook.com](mailto:hello@efficientdlbook.com).
 
 ## Introduction
-<img src="https://raw.githubusercontent.com/EfficientDL/book/main/images/book-cover.png" alt="Efficient Deep Learning book cover" 
-  style="float:right;width:250px;margin-left:20px;margin-bottom:20px;">
 
 <p align="justify">
 The field of Deep Learning has progressed exponentially, and so has the footprint of ML models like BERT, GPT-3, ResNet, etc. While they work great, training and deploying these large (and growing) models in production is expensive. You might want to deploy your face filter model on smartphones to let your users add a puppy filter on their selfies. But it might be too big or too slow, or you might want to improve the quality of your cloud-based spam detection model but you don’t want to pay for a bigger cloud VM to host a more accurate but larger model. What if you don’t have enough labeled data for your models, or can’t manually tune your models? All this is daunting!
