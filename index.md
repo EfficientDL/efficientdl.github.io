@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/EfficientDL/book/main/images/book-cover.png" alt="Efficient Deep Learning book cover" 
-  style="float:right;width:240px;margin-left:20px;margin-bottom:20px;">
+  style="float:right;width:275px;margin-left:20px;margin-bottom:20px;">
 
 
 Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
