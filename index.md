@@ -2,8 +2,6 @@
   style="float:right;width:275px;margin-left:20px;margin-bottom:20px;">
 
 
-Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
-
 - [Authors](#authors)
 - [Introduction](#introduction)
   - [The Minimally Qualified Reader](#the-minimally-qualified-reader)
