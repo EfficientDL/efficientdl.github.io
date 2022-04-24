@@ -6,10 +6,10 @@ Please link to this site using [https://efficientdlbook.com](https://efficientdl
 
 - [Authors](#authors)
 - [Introduction](#introduction)
-  - [The Minimally Qualified Reader](#the-minimally-qualified-reader)
-  - [Report errata and feedback.](#report-errata-and-feedback)
 - [Table of Contents](#table-of-contents)
 - [Projects / Codelabs / Tutorials](#projects--codelabs--tutorials)
+  - [The Minimally Qualified Reader](#the-minimally-qualified-reader)
+  - [Report errata and feedback.](#report-errata-and-feedback)
 
 ## Authors
 * Gaurav Menghani ([GitHub](https://github.com/reddragon), [LinkedIn](https://www.linkedin.com/in/gauravmenghani/), [Twitter](https://twitter.com/GauravML), [Website](https://gaurav.ai))
@@ -24,20 +24,12 @@ The field of Deep Learning has progressed exponentially, and so has the footprin
 </p>
 
 <p align="justify">
-What if you could make your models more efficient: use less resources (model size, latency, training time, data, manual involvement) and deliver better quality (accuracy, precision, recall, etc.). That sounds wonderful! But how?
+<b>What if you could make your models more efficient: use less resources</b> (model size, latency, training time, data, manual involvement) <b>and deliver better quality</b> (accuracy, precision, recall, etc.). That sounds wonderful! But how?
 </p> 
 
 <p align="justify">
 This book will go through algorithms and techniques used by researchers and engineers at Google Research, Facebook AI Research (FAIR), and other eminent AI labs to train and deploy their models on devices ranging from large server-side machines to tiny microcontrollers. In this book we present a balance of fundamentals as well as practical know-how to fully equip you to go ahead and optimize your model training and deployment workflows such that your models perform as well or better than earlier, with a fraction of resources. We also will present deep dives into popular models, infrastructure, and hardware, along with challenging projects to test your skills.
 </p>
-
-### The Minimally Qualified Reader
-The minimally qualified reader is someone who has a basic understanding of ML and at least some experience of training deep learning models. They can do basic fine-tuning of models by changing common parameters, can make minor changes to model architectures, etc. and get the modified models to train to a good accuracy. However, they are running into problems with productionizing these models / want to optimize them further. This is primarily because the book does not teach deep learning basics, for which we would like to refer you to excellent resources like [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), [Dive into Deep Learning](d2l.ai), etc. Any reader having this pre-requisite knowledge would be able to enjoy the book.
-
-### [Report errata and feedback](https://github.com/EfficientDL/book/issues).
-
-We welcome any errata / feedback / ideas. Please file them as an issue [here](https://github.com/EfficientDL/book/issues). Alternatively, write to us at [hello@efficientdlbook.com](mailto:hello@efficientdlbook.com).
-
 
 ##  Table of Contents
 
@@ -45,7 +37,7 @@ The table of contents is as follows. We have also included PDFs of some of the c
 
 **Part I: Introduction to Efficient Deep Learning**  
 
-1. **[Introduction (draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf)**
+1. **Introduction [(draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf)**
    - Introduction to Deep Learning
    - Efficient Deep Learning
    - Mental Model of Efficient Deep Learning
@@ -54,7 +46,7 @@ The table of contents is as follows. We have also included PDFs of some of the c
 **Part II: Effciency Techniques**
 
 {:start="2"}
-1. **[Introduction to Compression Techniques (draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%202%20-%20Compression%20Techniques.pdf)**
+1. **Introduction to Compression Techniques [(draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%202%20-%20Compression%20Techniques.pdf)**
    - An Overview of Compression
    - Quantization
    - Exercises: Compressing images from the Mars Rover
@@ -62,7 +54,7 @@ The table of contents is as follows. We have also included PDFs of some of the c
    - Summary
 
 
-2. **[Introduction to Learning Techniques (draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%203%20-%20Learning%20Techniques.pdf)**
+2. **Introduction to Learning Techniques [(draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%203%20-%20Learning%20Techniques.pdf)**
     - Learning Techniques and Efficiency
     - Data Augmentation
       - Project: Increasing the accuracy of an image classification model with Data Augmentation.
@@ -71,7 +63,7 @@ The table of contents is as follows. We have also included PDFs of some of the c
       - Project: Increasing the accuracy of an speech identification model with Distillation.
     - Summary
 
-3. **[Efficient Architectures (draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)**
+3. **Efficient Architectures [(draft pdf)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)**
     - Motivation
     - Embeddings for Smaller and Faster Models
       - Project: Using pre-trained embeddings to improve accuracy of a NLP task.
@@ -137,3 +129,10 @@ The table of contents is as follows. We have also included PDFs of some of the c
 ## Projects / Codelabs / Tutorials
 
 - Are available [here](https://github.com/EfficientDL/book/tree/main/codelabs). 
+
+### The Minimally Qualified Reader
+The minimally qualified reader is someone who has a basic understanding of ML and at least some experience of training deep learning models. They can do basic fine-tuning of models by changing common parameters, can make minor changes to model architectures, etc. and get the modified models to train to a good accuracy. However, they are running into problems with productionizing these models / want to optimize them further. This is primarily because the book does not teach deep learning basics, for which we would like to refer you to excellent resources like [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), [Dive into Deep Learning](d2l.ai), etc. Any reader having this pre-requisite knowledge would be able to enjoy the book.
+
+### [Report errata and feedback](https://github.com/EfficientDL/book/issues).
+
+We welcome any errata / feedback / ideas. Please file them as an issue [here](https://github.com/EfficientDL/book/issues). Alternatively, write to us at [hello@efficientdlbook.com](mailto:hello@efficientdlbook.com).
