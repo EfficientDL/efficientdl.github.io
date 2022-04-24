@@ -1,10 +1,12 @@
 <img src="https://raw.githubusercontent.com/EfficientDL/book/main/images/book-cover.png" alt="Efficient Deep Learning book cover" 
   style="float:right;width:275px;margin-left:20px;margin-bottom:20px;">
 
+<br/>
 
 Please link to this site using [https://efficientdlbook.com](https://efficientdlbook.com).
 
 - [Authors](#authors)
+- [Download](#download)
 - [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
 - [Projects / Codelabs / Tutorials](#projects--codelabs--tutorials)
@@ -16,6 +18,9 @@ Please link to this site using [https://efficientdlbook.com](https://efficientdl
 * Naresh Singh ([GitHub](https://github.com/NareshPS), [LinkedIn](https://www.linkedin.com/in/naresh-singh-15916b17/), [Twitter](https://twitter.com/_NareshPS))
 
 If you are interested in collaborating with us in any aspect of developing this book, please feel free to reach out to us at: [hello@efficientdlbook.com](mailto:hello@efficientdlbook.com).
+
+## Download
+We have included the PDFs of some of the chapter drafts for your review (Chapter [1](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf), [2](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%203%20-%20Learning%20Techniques.pdf), [3](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%202%20-%20Compression%20Techniques.pdf), [4](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)). Please be warned that the content is in an initial stage, and might contain errors. Any feedback is appreciated though.
 
 ## Introduction
 
@@ -33,7 +38,7 @@ This book will go through algorithms and techniques used by researchers and engi
 
 ##  Table of Contents
 
-The table of contents is as follows. We have also included PDFs of some of the chapter drafts for your review (Chapter [1](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf), [2](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%203%20-%20Learning%20Techniques.pdf), [3](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%202%20-%20Compression%20Techniques.pdf), [4](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)). Please be warned that the content is in an initial stage, and might contain errors. Any feedback is appreciated though.
+The table of contents is as follows.
 
 **Part I: Introduction to Efficient Deep Learning**  
 
