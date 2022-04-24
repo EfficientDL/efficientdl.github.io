@@ -33,7 +33,7 @@ This book will go through algorithms and techniques used by researchers and engi
 
 ##  Table of Contents
 
-The table of contents is as follows. We have also included PDFs of some of the chapter drafts for your review. Please be warned that the content is in an initial stage, and might contain errors. Any feedback is appreciated though.
+The table of contents is as follows. We have also included PDFs of some of the chapter drafts for your review (Chapter [1](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%201%20-%20Introduction.pdf), [2](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%203%20-%20Learning%20Techniques.pdf), [3](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%202%20-%20Compression%20Techniques.pdf), [4](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)). Please be warned that the content is in an initial stage, and might contain errors. Any feedback is appreciated though.
 
 **Part I: Introduction to Efficient Deep Learning**  
 
