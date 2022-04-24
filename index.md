@@ -8,8 +8,8 @@ Please link to this site using [https://efficientdlbook.com](https://efficientdl
 - [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
 - [Projects / Codelabs / Tutorials](#projects--codelabs--tutorials)
-  - [The Minimally Qualified Reader](#the-minimally-qualified-reader)
-  - [Report errata and feedback.](#report-errata-and-feedback)
+- [The Minimally Qualified Reader](#the-minimally-qualified-reader)
+- [Report errata and feedback.](#report-errata-and-feedback)
 
 ## Authors
 * Gaurav Menghani ([GitHub](https://github.com/reddragon), [LinkedIn](https://www.linkedin.com/in/gauravmenghani/), [Twitter](https://twitter.com/GauravML), [Website](https://gaurav.ai))
@@ -130,9 +130,9 @@ The table of contents is as follows. We have also included PDFs of some of the c
 
 - Are available [here](https://github.com/EfficientDL/book/tree/main/codelabs). 
 
-### The Minimally Qualified Reader
+## The Minimally Qualified Reader
 The minimally qualified reader is someone who has a basic understanding of ML and at least some experience of training deep learning models. They can do basic fine-tuning of models by changing common parameters, can make minor changes to model architectures, etc. and get the modified models to train to a good accuracy. However, they are running into problems with productionizing these models / want to optimize them further. This is primarily because the book does not teach deep learning basics, for which we would like to refer you to excellent resources like [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), [Dive into Deep Learning](d2l.ai), etc. Any reader having this pre-requisite knowledge would be able to enjoy the book.
 
-### [Report errata and feedback](https://github.com/EfficientDL/book/issues).
+## [Report errata and feedback](https://github.com/EfficientDL/book/issues).
 
 We welcome any errata / feedback / ideas. Please file them as an issue [here](https://github.com/EfficientDL/book/issues). Alternatively, write to us at [hello@efficientdlbook.com](mailto:hello@efficientdlbook.com).
