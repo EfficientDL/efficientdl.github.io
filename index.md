@@ -70,7 +70,6 @@ The table of contents is as follows.
     - Summary
 
 3. **Efficient Architectures [(PDF)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%204%20-%20Efficient%20Architectures.pdf)**
-    - Motivation
     - Embeddings for Smaller and Faster Models
       - Project: Using pre-trained embeddings to improve accuracy of a NLP task.
     - Learn Long-Term Dependencies Using Attention
@@ -79,8 +78,20 @@ The table of contents is as follows.
       - Project: Project: Snapchat-Like Filters for Pets
     - Summary
 
-4. **Automation**
-   - Motivation
+4. **Advanced Compression Techniques**
+   - Pruning
+   - Weight Clustering
+   - Weight Sharing
+   - Matrix Factorization
+   - Project: Comparing Compression Techniques for optimizing a speech detection model.
+
+5. **Advanced Learning Techniques**
+   - Contrastive Learning
+   - Unsupervised Pre-Training
+   - Project: Learning to classify with 10% labels.
+   - Curriculum Learning
+  
+6. **Automation**
    - Hyper-Parameter Tuning
      - Project: Multi-objective tuning to get a smaller and more accurate model.
    - AutoML
@@ -88,21 +99,25 @@ The table of contents is as follows.
    - Compression Search
      - Project: Layer-wise Sparsity to achieve a pareto optimal model. 
 
-5. **Advanced Compression Techniques**
-   - Pruning
-   - Clustering / Matrix Factorization
-   - Weight Sharing
-   - Project: Comparing Compression Techniques for optimizing a speech detection model.
+**Part 3 - Infrastructure**
 
+{:start="7"}
+1.   **Software Infrastructure**
+   - PyTorch Ecosystem
+   - iOS Ecosystem
+   - Cloud Ecosystems
 
-6. **Advanced Learning Techniques**
-  - Contrastive Learning
-  - Project: Learning to classify with 10% labels.
-  - Federated Learning
+2. **Hardware infrastructure**
+   - GPUs
+   - Jetson
+   - TPU
+   - M1 / A4/5?
+   - Microcontrollers
+
 
 **Part 3 - Applied Deep Dives**
 
-{:start="8"}
+{:start="10"}
 1. **Deep-Dives: Tensorflow Platforms** 
    - Mobile
      - Project: Benchmarking a tiny on-device model with TFLite.
@@ -122,14 +137,6 @@ The table of contents is as follows.
       - Project: Comparing efficient mobile models on Mobile.
     - Speech Detection
       - Project: Efficient speech detection models.
-
-**Part 4 - Software Infrastructure**
-
-{:start="10"}
-10.   **Software Infrastructure**
-   - Tensorflow Ecosystem
-   - PyTorch Ecosystem
-   - iOS Ecosystem
 
 
 ## Projects / Codelabs / Tutorials
