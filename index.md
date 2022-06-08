@@ -101,7 +101,7 @@ The table of contents is as follows.
 
 **Part 3 - Infrastructure**
 
-{:start="7"}
+{:start="8"}
 1.   **Software Infrastructure**
    - PyTorch Ecosystem
    - iOS Ecosystem
