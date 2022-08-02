@@ -78,12 +78,16 @@ The table of contents is as follows.
       - Project: Project: Snapchat-Like Filters for Pets
     - Summary
 
-4. **Advanced Compression Techniques**
-   - Pruning
-   - Weight Clustering
-   - Weight Sharing
-   - Matrix Factorization
-   - Project: Comparing Compression Techniques for optimizing a speech detection model.
+4. **Advanced Compression Techniques [(PDF)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%205%20-%20Advanced%20Compression%20Techniques.pdf)**
+   - Model Compression Using Sparsity
+     - Exercise: Sparsity improves compression
+     - Project: Lightweight model for pet filters application
+   - Weight Sharing using Clustering
+     - Exercise: Using clustering to compress a 1-D tensor.
+     - Exercise: Mars Rover beckons again! Can we do better with clustering?
+     - Exercise: Simulating clustering on a dummy dense fully-connected layer
+     - Project: Using Clustering to compress a deep learning model
+   - Summary
 
 5. **Advanced Learning Techniques**
    - Contrastive Learning
