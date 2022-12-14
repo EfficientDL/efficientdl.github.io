@@ -155,7 +155,7 @@ The table of contents is as follows.
 - Are available [here](https://github.com/EfficientDL/book/tree/main/codelabs). 
 
 ## The Minimally Qualified Reader
-The minimally qualified reader is someone who has a basic understanding of ML and at least some experience of training deep learning models. They can do basic fine-tuning of models by changing common parameters, can make minor changes to model architectures, etc. and get the modified models to train to a good accuracy. However, they are running into problems with productionizing these models / want to optimize them further. This is primarily because the book does not teach deep learning basics, for which we would like to refer you to excellent resources like [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), [Dive into Deep Learning](d2l.ai), etc. Any reader having this pre-requisite knowledge would be able to enjoy the book.
+The minimally qualified reader is someone who has a basic understanding of ML and at least some experience of training deep learning models. They can do basic fine-tuning of models by changing common parameters, can make minor changes to model architectures, etc. and get the modified models to train to a good accuracy. However, they are running into problems with productionizing these models / want to optimize them further. This is primarily because the book does not teach deep learning basics, for which we would like to refer you to excellent resources like [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python), [Dive into Deep Learning](https://d2l.ai/), etc. Any reader having this pre-requisite knowledge would be able to enjoy the book.
 
 ## Subscribe for Updates
 
