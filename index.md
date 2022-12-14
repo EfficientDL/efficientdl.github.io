@@ -78,7 +78,7 @@ The table of contents is as follows.
       - Project: Project: Snapchat-Like Filters for Pets
     - Summary
 
-4. **Advanced Compression Techniques [!NEW! (PDF)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%205%20-%20Advanced%20Compression%20Techniques.pdf)**
+4. **Advanced Compression Techniques [(PDF)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%205%20-%20Advanced%20Compression%20Techniques.pdf)**
    - Model Compression Using Sparsity
      - Exercise: Sparsity improves compression
      - Project: Lightweight model for pet filters application
@@ -89,19 +89,26 @@ The table of contents is as follows.
      - Project: Using Clustering to compress a deep learning model
    - Summary
 
-5. **Advanced Learning Techniques**
-   - Contrastive Learning
-   - Unsupervised Pre-Training
-   - Project: Learning to classify with 10% labels.
-   - Curriculum Learning
+5. **Advanced Learning Techniques [(PDF)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%206%20-%20Advanced%20Learning%20Techniques.pdf)**
+   - Self-Supervised Learning
+     - A Typical Self-Supervised Learning Recipe
+     - Efficiency Gains
+     - Project: Using Pre-trained Language Models for News Classification
+     - Contrastive Learning
+   - Bag of Assorted Learning Techniques
+   - Summary
   
-6. **Automation**
-   - Hyper-Parameter Tuning
-     - Project: Multi-objective tuning to get a smaller and more accurate model.
-   - AutoML
-     - Project: Searching over model architectures for boosting model accuracy.
-   - Compression Search
-     - Project: Layer-wise Sparsity to achieve a pareto optimal model. 
+6. **Automation [(PDF)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%207%20-%20Automation.pdf)**
+   - Hyperparameter Optimization
+     - A Simple Example of Hyperparameter Search
+     - Grid Search
+     - Random Search
+     - Bayesian Optimization
+     - Hyperband
+     - Project: Oxford Flower Classification With Hyperparameter Tuning.
+   - Neural Architecture Search
+     - Project: NAS for CIFAR-10 dataset.
+   - Summary
 
 **Part 3 - Infrastructure**
 
