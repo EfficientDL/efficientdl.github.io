@@ -89,7 +89,7 @@ The table of contents is as follows.
      - Project: Using Clustering to compress a deep learning model
    - Summary
 
-5. **Advanced Learning Techniques [!NEW! (PDF)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%206%20-%20Advanced%20Learning%20Techniques.pdf)**
+5. **Advanced Learning Techniques (!NEW!)[(PDF)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%206%20-%20Advanced%20Learning%20Techniques.pdf)**
    - Self-Supervised Learning
      - A Typical Self-Supervised Learning Recipe
      - Efficiency Gains
@@ -98,7 +98,7 @@ The table of contents is as follows.
    - Bag of Assorted Learning Techniques
    - Summary
   
-6. **Automation [!NEW! (PDF)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%207%20-%20Automation.pdf)**
+6. **Automation (!NEW!) [(PDF)](https://github.com/EfficientDL/book/raw/main/book/%5BEDL%5D%20Chapter%207%20-%20Automation.pdf)**
    - Hyperparameter Optimization
      - A Simple Example of Hyperparameter Search
      - Grid Search
